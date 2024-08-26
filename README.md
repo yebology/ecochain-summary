@@ -21,8 +21,10 @@ Welcome to EcoChain, a Web3 platform created to address Indonesia's waste manage
 - ⚡ API Provider : Alchemy
 - 🎨 Styling : TailwindCSS
 
-## 🚀 EcoChain Insights : Code, Contracts, and Demo 
+## 🚀 EcoChain Insights : Code, Contracts, Assets, and Demo 
 - 💻 dApp : Coming soon!
 - 🔧 Smart Contract :  [See the code](https://github.com/yebology/ecochain-smartcontract.git)
+- 🖼️ NFT Assets : [Explore the assets](https://github.com/yebology/ecochain-nft.git)
 - 📜 Contract Addresses : Coming soon!
+- 💎 NFT Addresses : Coming soon!
 - 🎥 Demo Video : Coming soon!
