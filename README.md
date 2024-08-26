@@ -25,6 +25,6 @@ Welcome to EcoChain, a Web3 platform created to address Indonesia's waste manage
 - 💻 dApp : Coming soon!
 - 🔧 Smart Contract :  [See the code](https://github.com/yebology/ecochain-smartcontract.git)
 - 🖼️ NFT Assets : [Explore the assets](https://github.com/yebology/ecochain-nft.git)
-- 📜 Contract Addresses : Coming soon!
-- 💎 NFT Addresses : Coming soon!
+- 📜 Contract Address : Coming soon!
+- 💎 NFT Address : Coming soon!
 - 🎥 Demo Video : Coming soon!
