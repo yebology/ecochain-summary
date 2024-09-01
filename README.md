@@ -1,6 +1,6 @@
 # EcoChain : Convert Trash into $RCYCL and Unlock Unique NFTs! 🚀
 ## ✨ Overview
-Welcome to EcoChain, a Web3 platform created to address Indonesia's waste management issues! 🌏✨ EcoChain harnesses blockchain technology to convert waste into valuable tokens, allowing you to trade bottles, cans, and paper for $RCYCL tokens. ♻️ Use tokens to buy NFTs. 🔒 EcoChain is a secure, transparent platform on Ethereum's Sepolia Testnet, driving sustainability and innovation. 🌐💡
+Welcome to EcoChain, a Web3 platform created to address Indonesia's waste management issues! 🌏✨ EcoChain harnesses blockchain technology to convert waste into valuable tokens, allowing you to trade bottles, cans, and paper for $RCYCL tokens. ♻️ Use tokens to buy NFTs. 🔒 EcoChain is a secure, transparent platform on Sepolia ETH, driving sustainability and innovation. 🌐💡
 
 ## 💡 Features
 - ♻️ Swap Trash for $RCYCL
@@ -16,6 +16,7 @@ Welcome to EcoChain, a Web3 platform created to address Indonesia's waste manage
 - 🖥️ Frontend : ReactTS (Typescript)
 - 🔧 Smart Contract Development : Foundry (Solidity)
 - 📜 Token Standards : ERC20 & ERC721
+- 🔗 Library : Ether.js
 - ⚡ API Provider : Alchemy
 - 🎨 Styling : TailwindCSS
 
@@ -23,6 +24,5 @@ Welcome to EcoChain, a Web3 platform created to address Indonesia's waste manage
 - 💻 dApp : [See the code](https://github.com/yebology/ecochain-dapp.git)
 - 🔧 Smart Contract :  [See the code](https://github.com/yebology/ecochain-smartcontract.git)
 - 🖼️ NFT Assets : [Explore the assets](https://github.com/yebology/ecochain-nft.git)
-- 📜 Contract Address : Coming soon!
-- 💎 NFT Address : Coming soon!
-- 🎥 Demo Video : Coming soon!
+- 📜 Contract Address : [View on Etherscan](https://sepolia.etherscan.io/address/0x5fB226F427B929549778aa49dAF4C96a9Fc31814)
+- 🎥 Demo Video : [Watch Demo Video](https://drive.google.com/file/d/1n_A3hw-s1J-mS1SUdm---U8sDX_hQHfF/view?usp=sharing)
