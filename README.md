@@ -1,6 +1,6 @@
 # EcoChain : Convert Trash into $RCYCL and Unlock Unique NFTs! 🚀
 ## ✨ Overview
-Welcome to EcoChain, a Web3 platform created to address Indonesia's waste management issues! 🌏✨ EcoChain harnesses blockchain technology to convert waste into valuable tokens, allowing you to trade bottles, cans, and paper for $RCYCL tokens. ♻️ Use tokens to buy NFTs. 🔒 EcoChain is a secure, transparent platform on Sepolia ETH, driving sustainability and innovation. 🌐💡
+Welcome to EcoChain, a Web3 platform created to address Indonesia's waste management issues! 🌏✨ EcoChain harnesses blockchain technology to convert waste into valuable tokens, allowing you to trade bottles, cans, and paper for $RCYCL tokens. ♻️ Use tokens to buy NFTs. 🔒 EcoChain is a secure, transparent platform on Ethereum network, driving sustainability and innovation. 🌐💡
 
 ## 💡 Features
 - ♻️ Swap Trash for $RCYCL
@@ -16,7 +16,7 @@ Welcome to EcoChain, a Web3 platform created to address Indonesia's waste manage
 - 🖥️ Frontend : ReactTS (Typescript)
 - 🔧 Smart Contract Development : Foundry (Solidity)
 - 📜 Token Standards : ERC20 & ERC721
-- 🔗 Library : Ethers.js
+- 🔗 Library : ethers.js
 - ⚡ API Provider : Alchemy
 - 🎨 Styling : TailwindCSS
 
