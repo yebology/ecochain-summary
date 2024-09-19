@@ -12,7 +12,7 @@ Welcome to EcoChain, a Web3 platform created to address Indonesia's waste manage
 - 🎨 Swap $RCYCL for NFTs : Turn your $RCYCL tokens into unique NFTs. Enjoy a range of digital art and collectibles while supporting sustainable practices. 🎨
 - ⭐ Give Review : Share your experiences and review our website you’ve interacted with. Your feedback helps others make informed decisions and fosters a community of trust and transparency. 🌟
 
-## ⚙️ Tech Stack Behind EcoChain : 
+## ⚙️ Tech Stack Behind EcoChain
 - 🖥️ Frontend : ReactTS (Typescript)
 - 🔧 Smart Contract Development : Foundry (Solidity)
 - 📜 Token Standards : ERC20 & ERC721
@@ -21,7 +21,7 @@ Welcome to EcoChain, a Web3 platform created to address Indonesia's waste manage
 - ⚡ API Provider : Alchemy
 - 🎨 Styling : TailwindCSS
 
-## 🚀 EcoChain Insights : Code, Contracts, Assets, and Demo 
+## 🚀 EcoChain Insights
 - 💻 dApp : [See the code](https://github.com/yebology/ecochain-dapp.git)
 - 🔧 Smart Contract :  [See the code](https://github.com/yebology/ecochain-smartcontract.git)
 - 🖼️ NFT Assets : [Explore the assets](https://github.com/yebology/ecochain-nft.git)
