@@ -28,4 +28,4 @@ Welcome to EcoChain, a Web3 platform created to address Indonesia's waste manage
 - 🖼️ NFT Assets : [Explore the assets](https://github.com/yebology/ecochain-nft.git)
 - 📜 Contract Address : [View on Etherscan](https://sepolia.etherscan.io/address/0x5fB226F427B929549778aa49dAF4C96a9Fc31814)
 - 🎥 Demo Video : [Watch Demo Video](https://drive.google.com/file/d/1n_A3hw-s1J-mS1SUdm---U8sDX_hQHfF/view?usp=sharing)
-- 💰 Funding : [View Address](https://github.com/zxstim/buildstationorg/blob/main/funding.json)
+- 💰 Funding : [View Address](https://github.com/yebology/buildstationorg/blob/main/funding.json)
