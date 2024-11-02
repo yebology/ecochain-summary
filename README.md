@@ -16,7 +16,7 @@ Welcome to EcoChain, a Web3 platform created to address Indonesia's waste manage
 - 🖥️ Frontend : ReactTS (Typescript)
 - 🔧 Smart Contract Development : Foundry (Solidity)
 - 📜 Token Standards : ERC20 & ERC721
-- 🔗 Library : ethers.js
+- 🔗 Library : Ethers.js
 - 💳 Wallet Integration : WalletConnect
 - 🌐 IPFS Provider : Pinata
 - ⚡ API Provider : Alchemy
