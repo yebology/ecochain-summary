@@ -13,7 +13,7 @@ Welcome to EcoChain, a Web3 platform created to address Indonesia's waste manage
 - ⭐ Give Review : Share your experiences and review our website you’ve interacted with. Your feedback helps others make informed decisions and fosters a community of trust and transparency. 🌟
 
 ## ⚙️ Tech Stack Behind EcoChain
-- 🖥️ Frontend : ReactTS (Typescript)
+- 🖥️ Frontend : React (Typescript)
 - 🔧 Smart Contract Development : Foundry (Solidity)
 - 📜 Token Standards : ERC20 & ERC721
 - 🔗 Library : Ethers.js
